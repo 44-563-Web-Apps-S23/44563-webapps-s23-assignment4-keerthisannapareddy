@@ -1,0 +1,18 @@
+.speech
+{
+    color:black;
+    font-style: Times New Roman;
+    font-size: 30px;
+}
+.direction
+{
+    color:rgb(62, 219, 219);
+    font-style:Cambria;
+    font-size:30px;
+    background-color:rgba(243, 212, 134, 0.642);
+}
+.direction:hover 
+{
+    color:black;
+    background-color: rgb(214, 96, 189);
+}
